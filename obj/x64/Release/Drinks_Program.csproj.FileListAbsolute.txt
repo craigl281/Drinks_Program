@@ -1,0 +1,13 @@
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\bin\x64\Release\Drinks_Program.exe.config
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\bin\x64\Release\Drinks_Program.exe
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\bin\x64\Release\Drinks_Program.pdb
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.Form1.resources
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.Properties.Resources.resources
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.csproj.GenerateResource.cache
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.csproj.CopyComplete
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.exe
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.pdb
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\Drinks_Program\Drinks_Program\obj\x64\Release\Drinks_Program.Form2.resources
