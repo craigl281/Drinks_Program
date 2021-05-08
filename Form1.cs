@@ -129,16 +129,18 @@ namespace Drinks_Program
     /// </summary>
     public class Drinks
     {
+        //All Drinks will have a type, name, description, whether carbonated or alcoholic.  Could make alcoholic only be alcohol drinks but for now it'll be all  
         public DrinkType DrinkType;
+        //All Drinks will have a name
         string _name;
         bool _carbonated;
         string _description;
         bool _alcoholic;
 
         public string Name
-         {
-        get => _name;
-        set => _name = value;
+        {
+            get => _name;
+            set => _name = value;
         }
         public bool Carbonated
         {
@@ -182,7 +184,7 @@ namespace Drinks_Program
             get => _percentage;
             set => _percentage = value;
         }
-        
+
         public AlcoholDrink(string Name, bool Carbonation, decimal AlcoholicPercentage = 1, DrinkType drinkType = DrinkType.Alcohol, bool Alcohol = true)
         {
             this.Name = Name;
